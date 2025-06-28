@@ -1,1 +1,1 @@
-# pixelPad
+# pixelPad - A simple hover sketching prototype
